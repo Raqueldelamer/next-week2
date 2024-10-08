@@ -1,5 +1,8 @@
 ## Screenshot of about/index.js
 <img src="images/Screenshot 2024-10-07 at 11.28.53 PM.png">
+I first ran npx create-next-app@latest next-week2 in my VSCode terminal, created a new about directory and a index.js 
+file, where I coded an about component and a button. Then I ran npm run dev in my terminal to start the development server.
+I opened my browser and navigated to http://localhost:3000 to view my home page, and http://localhost:3000/about to view the about page.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
