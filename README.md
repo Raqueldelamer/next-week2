@@ -1,3 +1,6 @@
+## Screenshot of about/index.js
+<img src="images/Screenshot 2024-10-07 at 11.28.53 PM.png">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
